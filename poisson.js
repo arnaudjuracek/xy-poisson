@@ -1,7 +1,6 @@
 'use strict';
 
 /**
- * [Poisson description]
  * @see http://www.cs.ubc.ca/~rbridson/docs/bridson-siggraph07-poissondisk.pdf
  * @param {Number} R [distance between samples]
  * @param {Number} width [width of the domain]
