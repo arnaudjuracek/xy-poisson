@@ -1,0 +1,26 @@
+{
+  "name": "xy-poisson",
+  "version": "1.0.0",
+  "description": "poisson algorithm w/ makeblock XY plotter v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnaudjuracek/xy-poisson.git"
+  },
+  "keywords": [
+    "poisson",
+    "plotter"
+  ],
+  "author": "Arnaud Juracek <arnaud.juracek@gmail.com> (http://arnaudjuracek.fr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnaudjuracek/xy-poisson/issues"
+  },
+  "homepage": "https://github.com/arnaudjuracek/xy-poisson#readme",
+  "dependencies": {
+    "xy-plotter": "github:arnaudjuracek/xy"
+  }
+}
